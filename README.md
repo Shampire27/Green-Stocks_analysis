@@ -21,7 +21,7 @@ This analysis is based on the pre-analysis of the [green_stocks.xlsm](/green_sto
         Next i
 
 * Nest Loop Code:
-    ![VBA_Nast_Loop_Code](Resources/VBA_Nast_Loop_Code.png)
+    ![VBA_Nest_Loop_Code](Resources/VBA_Nest_Loop_Code.png)
     
 * Output Setting Code:
     ![VBA_Output](Resources/VBA_Output.png)
