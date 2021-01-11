@@ -13,24 +13,16 @@ This analysis is based on the pre-analysis of the [green_stocks.xlsm](/green_sto
 
 ### Main Codes
 
-* Nest Loop Structure:
-1        For i = 0 To 11
-2             tickerIndex = tickers(i)
-3                     For j = 2 To RowCount
-4                     Next j
-5         Next i
+* Nest Loop Structure: To record the formate of the nest loop
+    ![VBA_Nest_Loop_Structure](Resources/VBA_Nest_Loop_Structure.png)
 
-* Nest Loop Code:
+* Nest Loop Code: To determine how the data go through with nest loop in this analysis
     ![VBA_Nest_Loop_Code](Resources/VBA_Nest_Loop_Code.png)
     
-* Output Setting Code:
+* Output Setting Code: To define the output value and output location in the worksheet "All Stocks Analysis"
     ![VBA_Output](Resources/VBA_Output.png)
     
 More details could be found in [green_stocks.xlsm](/green_stocks.xlsm)
-
-### Challenges
-
-When writing the 
 
 ## Summary
 
@@ -44,10 +36,10 @@ As a result, total daily volume and return for 2017 and 2018 are shown as below:
 
 
 - The advantages and disadvantages of refactoring code in general
-  * Advantages:
-  * Disadvantages:
+  * Advantages: By refactoring the code, a clear structure will be created for analysing.  The period of the time to run a code would deducted by deducting unnessecary codes and increased efficiency using proper functions. High efficiency will occur when change formating for multipule worksheets which are required to use the same formates.
+  * Disadvantages: It's hard to use the same worksheet to compare datas between each results with a same macro coding.
   
 - the advantages and disadvantages of the original and refactored VBA script 
-  * Advantages:
-  * Disadvantages:
+  * Advantages: Easy to customized with high flexibility with smaller structure of each macro. 
+  * Disadvantages: Bugs are easier to occure bacause of logical decentralization between codes. The original script is harder to debug for the same reason.
   
