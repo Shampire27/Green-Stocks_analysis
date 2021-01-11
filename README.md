@@ -38,6 +38,8 @@ For the year of 2017, most return for each tiches are positive, which means thei
 
 However, for the year of 2018, return on most tickers was negative, which means the stock value for each shares decreased and the investors who was invested in these tocks lost money from the shares. Only the investor holding ENPH and RUN won a positive income in the year of 2018.
 
+To sum up, based on the result of 2017 and 2018 calculated in the worksheet "All Stockes Analysis", the stock market performed better in 2017.
+
 - The advantages and disadvantages of refactoring code in general
   * Advantages: By refactoring the code, a clear structure will be created for analysing.  The period of the time to run a code would deducted by deducting unnessecary codes and increased efficiency using proper functions. High efficiency will occur when change formating for multipule worksheets which are required to use the same formates.
   * Disadvantages: It's hard to use the same worksheet to compare datas between each results with a same macro coding.
