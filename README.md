@@ -19,7 +19,7 @@ This analysis is based on the pre-analysis of the [green_stocks.xlsm](/green_sto
 * Nest Loop Code: To determine how the data go through with nest loop in this analysis
     ![VBA_Nest_Loop_Code](Resources/VBA_Nest_Loop_Code.png)
     
-* Output Setting Code: To define the output value and output location in the worksheet "All Stocks Analysis"
+* Output Setting Code: To define the output value and output location in the worksheet "All Stocks Analysis" 
     ![VBA_Output](Resources/VBA_Output.png)
     
 More details could be found in [green_stocks.xlsm](/green_stocks.xlsm)
@@ -31,9 +31,12 @@ As a result, total daily volume and return for 2017 and 2018 are shown as below:
 - For the Year of 2017
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
+For the year of 2017, most return for each tiches are positive, which means their is a increasing trend of stock price for this year, and the investors are with high posibility to earn from the stocks. Especially for the ticher DQ, the return was high to 199.45% for 2017 which is the best option of stock investing.
+
 - For the Year of 2018
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
+However, for the year of 2018, return on most tickers was negative, which means the stock value for each shares decreased and the investors who was invested in these tocks lost money from the shares. Only the investor holding ENPH and RUN won a positive income in the year of 2018.
 
 - The advantages and disadvantages of refactoring code in general
   * Advantages: By refactoring the code, a clear structure will be created for analysing.  The period of the time to run a code would deducted by deducting unnessecary codes and increased efficiency using proper functions. High efficiency will occur when change formating for multipule worksheets which are required to use the same formates.
