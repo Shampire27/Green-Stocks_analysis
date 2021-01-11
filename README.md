@@ -14,11 +14,11 @@ This analysis is based on the pre-analysis of the [green_stocks.xlsm](/green_sto
 ### Main Codes
 
 * Nest Loop Structure:
-       For i = 0 To 11
-            tickerIndex = tickers(i)
-                    For j = 2 To RowCount
-                    Next j
-        Next i
+1        For i = 0 To 11
+2             tickerIndex = tickers(i)
+3                     For j = 2 To RowCount
+4                     Next j
+5         Next i
 
 * Nest Loop Code:
     ![VBA_Nest_Loop_Code](Resources/VBA_Nest_Loop_Code.png)
