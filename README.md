@@ -9,7 +9,7 @@ In this project, a analysing of Green Stock data was provided using VBA.  By loo
 
 ### The Overview of Analysis
 
-This analysis is based on the pre-analysis of the ![green_stocks.xlsm](/green_stocks.xlsm) workbooks.  The code is working with high volume of stocks for the entire stock market.  Nested loops was created inside the code to ensure all data in selected spearsheets could be go through.
+This analysis is based on the pre-analysis of the [green_stocks.xlsm](/green_stocks.xlsm) workbooks.  The code is working with high volume of stocks for the entire stock market.  Nested loops was created inside the code to ensure all data in selected spearsheets could be go through.
 
 ### The Overview of Analysis - Theater Outcomes by Launch Date
 
