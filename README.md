@@ -3,7 +3,7 @@ Challenge 2 - Performing analysis on Green Stock data with VBA
 
 ## Overview of Project
 
-In this project, a analysing of Green Stock data was provided using VBA.  By looping through the data of the Year of 2017 and 2018, total daily volume and return for each ticher was culculated.  After refactoring the code, the script is running more efficiently than before (After: 0.7109375 sec VS Before: 0.7421875 sec). To achieve the refactoring, unensessary steps were deleted, logic of the code structure was updated and functionalities was added.
+In this project, a analysing of Green Stock data was provided using VBA.  By looping through the data of the Year of 2017 and 2018, total daily volume and return for each ticher was culculated.  After refactoring the code, the script is running more efficiently than before (After: 0.703125 sec VS Before: 0.7421875 sec for the year of 2017). To achieve the refactoring, unensessary steps were deleted, logic of the code structure was updated and functionalities was added.
 
 ## Results
 
